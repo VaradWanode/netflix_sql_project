@@ -8,6 +8,9 @@
 This project focuses on analyzing Netflix’s content catalog using SQL to extract meaningful business insights.
 The objective is to answer practical, decision-oriented questions related to content distribution, genres, countries, release trends, and ratings — similar to what a data analyst or business analyst would do in a real-world scenario.
 
+This project analyzes 8,000+ Netflix titles using SQL to derive structured, business-relevant insights from a real-world entertainment dataset.
+The dataset spans multiple decades (1940s–2020s), covers content from 100+ countries, and includes both Movies and TV Shows across 30+ genre categories and 15+ rating classifications.
+
 The analysis is designed to be **simple, structured, and business-focused**, avoiding unnecessary complexity while still demonstrating strong SQL fundamentals.
 
 ---
